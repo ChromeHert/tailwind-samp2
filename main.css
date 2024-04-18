@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+:root {
+    --prime: #B81E94;
+    --blac: #000;
+}
+
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: #FFF;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #B81E94;
+    border-radius: 5px;
+  }
+body {
+    font-family: "Mukta", sans-serif;
+    scroll-behavior: smooth;
+}
+
+.hero-sect {
+    margin-top: -0.5rem;
+}
+
+.fa-brands {
+    color: #fff;
+}
+  
